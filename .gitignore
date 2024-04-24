@@ -25,6 +25,5 @@ qrc_*.cpp
 # Build directories
 build/
 
-*.gitignore
 CMakeLists.txt.user
 minefield.ui
